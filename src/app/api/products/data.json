@@ -5,7 +5,7 @@
       "img": "/sandrofernandes.png",
       "imgs":["/sandrofernandes.png", "/sandrofernandes2.png"],
       "title": "Meu portfólio Atual",
-      "slug": "meu-portfólio-Atual",
+      "slug": "meu-portfolio-Atual",
       "description":
         "Meu portfólio atual, lugar onde coloco todos meus projetos pessoais e profissionais",
       "tecs": ["HTML", "CSS", "JS", "TS", "React", "Next", "Tailwind"],
