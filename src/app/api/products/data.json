@@ -3,8 +3,9 @@
     {
       "id": 1,
       "img": "/sandrofernandes.png",
+      "imgs":["/sandrofernandes.png", "/sandrofernandes2.png"],
       "title": "Meu portfólio Atual",
-      "slug": "meu portfólio Atual",
+      "slug": "meu-portfólio-Atual",
       "description":
         "Meu portfólio atual, lugar onde coloco todos meus projetos pessoais e profissionais",
       "tecs": ["HTML", "CSS", "JS", "TS", "React", "Next", "Tailwind"],
@@ -16,8 +17,9 @@
     {
       "id": 2,
       "img": "/card-perfil.png",
+      "imgs":["/card-perfil.png"],
       "title": "Card Perfil",
-      "slug": "card perfil",
+      "slug": "card-perfil",
       "description":
         "Card de acesso rápido as minhas redes. Feito para testar o aprendizado em Angular ",
       "tecs": ["HTML", "CSS", "JS", "TS", "Angular"],
@@ -29,6 +31,7 @@
     {
       "id": 3,
       "img": "/mystore.png",
+      "imgs":["/mystore.png", "/mystore2.png"],
       "title": "MyStore",
       "slug": "mystore",
       "description": "Pequena loja virtual, para por em prática o aprendizado",
@@ -41,8 +44,9 @@
     {
       "id": 4,
       "img": "/alcancadospelagraca.png",
+      "imgs":["/alcancadospelagraca.png", "/alcancadospelagraca2.png"],
       "title": "Alcançados pela Graça",
-      "slug": "alcancados pela graca",
+      "slug": "alcancados-pela-graca",
       "description":
         "Site oficial da igreja Alcançados pela Graça. Site Fullstack, com Api sendo desenvolvida com NodeJS em Typescript",
       "tecs": ["HTML", "CSS", "JS", "React", "Next", "Tailwind", "Zustand", "API"],
@@ -54,8 +58,9 @@
     {
       "id": 5,
       "img": "/elisarosal.png",
+      "imgs":["/elisarosal.png", "/elisarosal22.png"],
       "title": "Portfólio de Elisa Rosal",
-      "slug": "portfolio de elisa rosal",
+      "slug": "portfolio-de-elisa-rosal",
       "description": "Projeto de Elisa Rosal",
       "tecs": ["HTML", "CSS", "JS", "React", "Next", "Tailwind"],
       "page": "https://elisarosal.vercel.app/",
@@ -66,8 +71,9 @@
     {
       "id": 6,
       "img": "/marvel-heroes.png",
+      "imgs":["/marvel-heroes.png", "/marvel-heroes2.png"],
       "title": "Loja de Quadrinhos da Marvel",
-      "slug": "loja de quadrinhos da marvel",
+      "slug": "loja-de-quadrinhos-da-marvel",
       "description": "Projeto de desafio para um vaga front-end",
       "tecs": ["HTML", "CSS", "JS", "React"],
       "page": "https://marvel-heroes-app.netlify.app/",
@@ -78,6 +84,7 @@
     {
       "id": 7,
       "img": "/minhasnotas.png",
+      "imgs":["/minhasnotas.png", "/minhasnotas2.png"],
       "title": "MyNotes",
       "slug": "mynotes",
       "description":
@@ -91,7 +98,8 @@
     {
       "id": 8,
       "img": "/portfolio-novo.png",
-      "title": "Meu Portfólio react",
+      "imgs":["/portfolio-novo.png", "/portfolio-novo2.png"],
+      "title": "Meu-Portfólio-react",
       "slug": "meu portfolio react",
       "description": "Projeto feito em ReactJS. Espaço onde coloco meus projetos.",
       "tecs": ["HTML", "CSS", "JS", "React"],
@@ -103,8 +111,9 @@
     {
       "id": 9,
       "img": "/rpz-novo.png",
+      "imgs":["/rpz-novo.png"],
       "title": "RPZ FC - Time de futebol amador ",
-      "slug": "rpz fc time de futebol amador",
+      "slug": "rpz-fc-time-de-futebol-amador",
       "description":
         "Projeto feito em ReactJS. Site para um time de futebol amador.",
       "tecs": ["HTML", "CSS", "JS", "React"],
@@ -116,8 +125,9 @@
     {
       "id": 10,
       "img": "/portfolio-antigo.png",
+      "imgs":["/portfolio-antigo.png"],
       "title": "Meu primeiro potfólio",
-      "slug": "meu primeiro portfolio",
+      "slug": "meu-primeiro-portfolio",
       "description":
         "Projeto feito com HTML e CSS. Esse foi meu primeiro portfólio, feito em 2020 e atualizado até o início de 2022.",
       "tecs": ["HTML", "CSS"],
@@ -129,8 +139,9 @@
     {
       "id": 11,
       "img": "/rpz-antigo.png",
+      "imgs":["/rpz-antigo.png"],
       "title": "RPZ FC - site antigo",
-      "slug": "rpz fc site antigo",
+      "slug": "rpz-fc-site-antigo",
       "description":
         "Projeto feito em HTML, CSS e Javascript. Esse projeto foi feito em 2022 e atualizado até 05/2022",
       "tecs": ["HTML", "CSS", "JS"],
