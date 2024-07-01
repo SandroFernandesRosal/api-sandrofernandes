@@ -45,7 +45,7 @@
       "id": 4,
       "img": "/alcancadospelagraca.png",
       "imgs":["/alcancadospelagraca.png", "/alcancadospelagraca2.png"],
-      "title": "Alcançados pela Graça",
+      "title": "Igreja APG",
       "slug": "alcancados-pela-graca",
       "description":
         "Site oficial da igreja Alcançados pela Graça. Site Fullstack, com Api sendo desenvolvida com NodeJS em Typescript",
