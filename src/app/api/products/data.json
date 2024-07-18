@@ -2,8 +2,9 @@
   "products": [
     {
       "id": 1,
-      "img": "/sandrofernandes.png",
-      "imgs":["/sandrofernandes.png", "/sandrofernandes2.png"],
+      "img": "/portfolio-sm.png",
+      "imgs":["/portfolio-lg.png", "/portfolio-sm.png"],
+      "video": "/video-portfolio.mp4",
       "title": "Portfólio Atual",
       "slug": "meu-portfolio-Atual",
       "description":
@@ -13,11 +14,27 @@
       "repo": "https://github.com/SandroFernandesRosal/my-portfolio-next",
       "featured": true
     },
-  
+
     {
       "id": 2,
+      "img": "/sandrofernandes.png",
+      "imgs":["/pagevendas-lg.png", "/pagevendas-sm.png"],
+      "video": "/video-pagevendas.mp4",
+      "title": "Página de vendas",
+      "slug": "page-de-vendas-instagram-para-empreendedoras",
+      "description":
+        "Página de vendas para um produto",
+      "tecs": ["HTML", "CSS", "JS", "TS", "React", "Next", "Tailwind"],
+      "page": "https://instagram-para-empreendedoras.vercel.app/",
+      "repo": "https://github.com/SandroFernandesRosal/page-vendas-instagram-para-empreendedoras",
+      "featured": true
+    },
+  
+    {
+      "id": 3,
       "img": "/card-perfil.png",
       "imgs":["/card-perfil.png"],
+      "video": null,
       "title": "Card Perfil",
       "slug": "card-perfil",
       "description":
@@ -29,9 +46,10 @@
     },
   
     {
-      "id": 3,
+      "id": 4,
       "img": "/mystore.png",
       "imgs":["/mystore.png", "/mystore2.png"],
+      "video": null,
       "title": "MyStore",
       "slug": "mystore",
       "description": "Pequena loja virtual, para por em prática o aprendizado",
@@ -42,9 +60,10 @@
     },
   
     {
-      "id": 4,
+      "id": 5,
       "img": "/alcancadospelagraca.png",
       "imgs":["/alcancadospelagraca.png", "/alcancadospelagraca2.png"],
+      "video": null,
       "title": "Igreja APG",
       "slug": "alcancados-pela-graca",
       "description":
@@ -56,9 +75,10 @@
     },
   
     {
-      "id": 5,
+      "id": 6,
       "img": "/elisarosal.png",
       "imgs":["/elisarosal.png", "/elisarosal22.png"],
+      "video": null,
       "title": "Portfólio de Elisa",
       "slug": "portfolio-de-elisa-rosal",
       "description": "Portfólio de Elisa Rosal",
@@ -69,9 +89,10 @@
     },
   
     {
-      "id": 6,
+      "id": 7,
       "img": "/marvel-heroes.png",
       "imgs":["/marvel-heroes.png", "/marvel-heroes2.png"],
+      "video": null,
       "title": "Marvel Store",
       "slug": "loja-de-quadrinhos-da-marvel",
       "description": "Projeto de desafio para um vaga front-end. É uma loja de quadrinhos da Marvel",
@@ -82,9 +103,10 @@
     },
   
     {
-      "id": 7,
+      "id": 8,
       "img": "/minhasnotas.png",
       "imgs":["/minhasnotas.png", "/minhasnotas2.png"],
+      "video": null,
       "title": "MyNotes",
       "slug": "mynotes",
       "description":
@@ -96,9 +118,10 @@
     },
   
     {
-      "id": 8,
+      "id": 9,
       "img": "/portfolio-novo.png",
       "imgs":["/portfolio-novo.png", "/portfolio-novo2.png"],
+      "video": null,
       "title": "Portfólio antigo",
       "slug": "Meu-Portfólio-antigo",
       "description": "Projeto feito em ReactJS.",
@@ -109,9 +132,10 @@
     },
   
     {
-      "id": 9,
+      "id": 10,
       "img": "/rpz-novo.png",
       "imgs":["/rpz-novo.png"],
+      "video": null,
       "title": "RPZ FC",
       "slug": "rpz-fc-time-de-futebol-amador",
       "description":
@@ -123,9 +147,10 @@
     },
   
     {
-      "id": 10,
+      "id": 11,
       "img": "/portfolio-antigo.png",
       "imgs":["/portfolio-antigo.png"],
+      "video": null,
       "title": "Primeiro portfólio",
       "slug": "meu-primeiro-portfolio",
       "description":
@@ -137,9 +162,10 @@
     },
   
     {
-      "id": 11,
+      "id": 12,
       "img": "/rpz-antigo.png",
       "imgs":["/rpz-antigo.png"],
+      "video": null,
       "title": "RPZ FC antigo",
       "slug": "rpz-fc-site-antigo",
       "description":
