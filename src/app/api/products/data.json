@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "img": "/portfolio-sm.png",
-      "imgs":["/portfolio-lg.png", "/portfolio-sm.png"],
+      "img": "/portfolio-sm-dark.png",
+      "imgs":["/portfolio-lg-dark.png", "/portfolio-sm-dark.png", "/portfolio-lg-light.png", "/portfolio-sm-light.png"],
       "video": "/video-portfolio.mp4",
       "title": "Portfólio Atual",
       "slug": "meu-portfolio-Atual",
@@ -17,7 +17,7 @@
 
     {
       "id": 2,
-      "img": "/sandrofernandes.png",
+      "img": "/pagevendas-sm.png",
       "imgs":["/pagevendas-lg.png", "/pagevendas-sm.png"],
       "video": "/video-pagevendas.mp4",
       "title": "Página de vendas",
