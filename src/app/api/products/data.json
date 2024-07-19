@@ -3,7 +3,7 @@
     {
       "id": 1,
       "img": "/portfolio-sm-dark.png",
-      "imgs":["/portfolio-lg-dark.png", "/portfolio-sm-dark.png", "/portfolio-lg-light.png", "/portfolio-sm-light.png"],
+      "imgs":["/portfolio-lg-dark.png", "/portfolio-lg-light.png",  "/portfolio-sm-dark.png", "/portfolio-sm-light.png"],
       "video": "/video-portfolio.mp4",
       "title": "Portfólio Atual",
       "slug": "meu-portfolio-Atual",
