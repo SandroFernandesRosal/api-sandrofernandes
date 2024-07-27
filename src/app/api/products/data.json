@@ -10,7 +10,7 @@
       "description":
         "Meu portfólio atual, lugar onde coloco todos meus projetos pessoais e profissionais",
       "tecs": ["HTML", "CSS", "JS", "TS", "React", "Next", "Tailwind"],
-      "page": "https://sandrofernandes-dev.vercel.app/",
+      "page": "https://sandrofernandesdev.vercel.app/",
       "repo": "https://github.com/SandroFernandesRosal/my-portfolio-next",
       "featured": true
     },
