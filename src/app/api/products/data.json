@@ -85,7 +85,7 @@
       "tecs": ["HTML", "CSS", "JS", "React", "Next", "Tailwind"],
       "page": "https://elisarosal.vercel.app/",
       "repo": "https://github.com/SandroFernandesRosal/portfolio-elisa",
-      "featured": false
+      "featured": true
     },
   
     {
