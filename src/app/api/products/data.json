@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "img": "//elisa-artes-smdark.png",
+      "img": "/elisa-artes-smdark.png",
       "imgs":["/elisa-artes-smdark.png", "/elisa-artes-smlight.png",  "/elisa-artes-lgdark.png", "/elisa-artes-lglight.png", "/elisa-artes-pgconvite-smdark.png", "/elisa-artes-pgconvite-smlight.png", "/elisa-artes-pgconvite-lgdark.png", "/elisa-artes-pgconvite-lglight.png", "/elisa-artes-pgconvites-smdark.png", "/elisa-artes-pgconvites-smlight.png", "/elisa-artes-pgconvites-lgdark.png", "/elisa-artes-pgconvites-lglight.png"],
       "video": "/video-portfolio.mp4",
       "title": "E-commerce - Elisa Artes",
