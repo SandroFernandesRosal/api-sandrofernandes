@@ -5,13 +5,13 @@
       "img": "//elisa-artes-smdark.png",
       "imgs":["/elisa-artes-smdark.png", "/elisa-artes-smlight.png",  "/elisa-artes-lgdark.png", "/elisa-artes-lglight.png", "/elisa-artes-pgconvite-smdark.png", "/elisa-artes-pgconvite-smlight.png", "/elisa-artes-pgconvite-lgdark.png", "/elisa-artes-pgconvite-lglight.png", "/elisa-artes-pgconvites-smdark.png", "/elisa-artes-pgconvites-smlight.png", "/elisa-artes-pgconvites-lgdark.png", "/elisa-artes-pgconvites-lglight.png"],
       "video": "/video-portfolio.mp4",
-      "title": "Portfólio Atual",
-      "slug": "meu-portfolio-Atual",
+      "title": "E-commerce - Elisa Artes",
+      "slug": "ecommerce-elisa-artes",
       "description":
-        "Meu portfólio atual, lugar onde coloco todos meus projetos pessoais e profissionais",
+        "Loja virtual para artes digitais personalizadas como convites, filtros para instagram, save the date e lembretes",
       "tecs": ["HTML", "CSS", "JS", "TS", "React", "Next", "Tailwind"],
-      "page": "https://sandrofernandesdev.vercel.app/",
-      "repo": "https://github.com/SandroFernandesRosal/my-portfolio-next",
+      "page": "https://elisa-artes.vercel.app/",
+      "repo": "https://github.com/SandroFernandesRosal/elisa-artes",
       "featured": true
     },
     {
