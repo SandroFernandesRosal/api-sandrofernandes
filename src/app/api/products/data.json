@@ -113,7 +113,7 @@
       "tecs": ["HTML", "CSS", "JS", "React", "Next", "Tailwind"],
       "page": "https://elisarosal.vercel.app/",
       "repo": "https://github.com/SandroFernandesRosal/portfolio-elisa",
-      "featured": true
+      "featured": false
     },
   
     {
@@ -127,7 +127,7 @@
       "tecs": ["HTML", "CSS", "JS", "React"],
       "page": "https://marvel-heroes-app.netlify.app/",
       "repo": "https://github.com/SandroFernandesRosal/marvel-app",
-      "featured": true
+      "featured": false
     },
   
     {
