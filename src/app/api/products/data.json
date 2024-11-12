@@ -2,6 +2,20 @@
   "products": [
     {
       "id": 1,
+      "img": "/catalogoelisasm.png",
+      "imgs":["/catalogoelisasm.png", "/catalogoelisalg"],
+      "video": null,
+      "title": "Catálogo - Elisa Artes Digitais",
+      "slug": "catalogo-elisa-artes-digitais",
+      "description":
+        "É um catálogo de artes digitais, incluindo convites digitais, filtros para instagram, save the date, lembretes e entre outros. Usado para facilitar e impulsionar as vendas.",
+      "tecs": ["HTML", "CSS", "JS", "TS", "React", "Next", "Tailwind"],
+      "page": "https://catalogo-elisaartes.vercel.app/",
+      "repo": "https://github.com/SandroFernandesRosal/catalogo-elisaartes",
+      "featured": true
+    },
+    {
+      "id": 2,
       "img": "/aikosmdark.png",
       "imgs":["/aikosmdark.png", "/aikosmlight.png",  "/elisa-artes-lgdark.png", "/aikolgdark.png", "/aikolglight.png", "/elisa-artes-pgconvite-smlight.png", "/elisa-artes-pgconvite-lgdark.png", "/aikoequipmentsmdark.png", "/aikoequipmentsmlight.png", "/aikosearchdark.png", "/aikosearchlight.png"],
       "video": null,
@@ -15,7 +29,7 @@
       "featured": true
     },
     {
-      "id": 2,
+      "id": 3,
       "img": "/elisa-artes-smdark.png",
       "imgs":["/elisa-artes-smdark.png", "/elisa-artes-smlight.png",  "/elisa-artes-lgdark.png", "/elisa-artes-lglight.png", "/elisa-artes-pgconvite-smdark.png", "/elisa-artes-pgconvite-smlight.png", "/elisa-artes-pgconvite-lgdark.png", "/elisa-artes-pgconvite-lglight.png", "/elisa-artes-pgconvites-smdark.png", "/elisa-artes-pgconvites-smlight.png", "/elisa-artes-pgconvites-lgdark.png", "/elisa-artes-pgconvites-lglight.png"],
       "video": null,
@@ -29,7 +43,7 @@
       "featured": true
     },
     {
-      "id": 3,
+      "id": 4,
       "img": "/portfolio-sm-dark.png",
       "imgs":["/portfolio-lg-dark.png", "/portfolio-lg-light.png",  "/portfolio-sm-dark.png", "/portfolio-sm-light.png"],
       "video": "/video-portfolio.mp4",
@@ -44,7 +58,7 @@
     },
 
     {
-      "id": 4,
+      "id": 5,
       "img": "/pagevendas-sm.png",
       "imgs":["/pagevendas-lg.png", "/pagevendas-sm.png"],
       "video": "/video-pagevendas.mp4",
@@ -59,7 +73,7 @@
     },
   
     {
-      "id": 5,
+      "id": 6,
       "img": "/card-perfil.png",
       "imgs":["/card-perfil.png"],
       "video": null,
@@ -74,7 +88,7 @@
     },
   
     {
-      "id": 6,
+      "id": 7,
       "img": "/mystore.png",
       "imgs":["/mystore.png", "/mystore2.png"],
       "video": null,
@@ -88,7 +102,7 @@
     },
   
     {
-      "id": 7,
+      "id": 8,
       "img": "/alcancadospelagraca.png",
       "imgs":["/alcancadospelagraca.png", "/alcancadospelagraca2.png"],
       "video": null,
@@ -103,7 +117,7 @@
     },
   
     {
-      "id": 8,
+      "id": 9,
       "img": "/elisarosal.png",
       "imgs":["/elisarosal.png", "/elisarosal2.png"],
       "video": null,
@@ -117,7 +131,7 @@
     },
   
     {
-      "id": 9,
+      "id": 10,
       "img": "/marvel-heroes.png",
       "imgs":["/marvel-heroes.png", "/marvel-heroes2.png"],
       "video": null,
@@ -131,7 +145,7 @@
     },
   
     {
-      "id": 10,
+      "id": 11,
       "img": "/minhasnotas.png",
       "imgs":["/minhasnotas.png", "/minhasnotas2.png"],
       "video": null,
@@ -146,7 +160,7 @@
     },
   
     {
-      "id": 11,
+      "id": 12,
       "img": "/portfolio-novo.png",
       "imgs":["/portfolio-novo.png", "/portfolio-novo2.png"],
       "video": null,
@@ -160,7 +174,7 @@
     },
   
     {
-      "id": 12,
+      "id": 13,
       "img": "/rpz-novo.png",
       "imgs":["/rpz-novo.png"],
       "video": null,
@@ -175,7 +189,7 @@
     },
   
     {
-      "id": 13,
+      "id": 14,
       "img": "/portfolio-antigo.png",
       "imgs":["/portfolio-antigo.png"],
       "video": null,
@@ -190,7 +204,7 @@
     },
   
     {
-      "id": 14,
+      "id": 15,
       "img": "/rpz-antigo.png",
       "imgs":["/rpz-antigo.png"],
       "video": null,
