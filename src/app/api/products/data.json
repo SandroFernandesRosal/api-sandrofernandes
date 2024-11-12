@@ -3,7 +3,7 @@
     {
       "id": 1,
       "img": "/catalogoelisasm.png",
-      "imgs":["/catalogoelisasm.png", "/catalogoelisalg"],
+      "imgs":["/catalogoelisasm.png", "/catalogoelisalg.png"],
       "video": null,
       "title": "Catálogo - Elisa Artes Digitais",
       "slug": "catalogo-elisa-artes-digitais",
