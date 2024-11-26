@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "img": "/catalogoelisasm.png",
-      "imgs":["/catalogoelisasm.png", "/catalogoelisalg.png"],
+      "img": "/catalogoelisasm.webp",
+      "imgs":["/catalogoelisasm.webp", "/catalogoelisalg.webp"],
       "video": null,
       "title": "Catálogo - Elisa Artes Digitais",
       "slug": "catalogo-elisa-artes-digitais",
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "img": "/aikosmdark.png",
-      "imgs":["/aikosmdark.png", "/aikosmlight.png",  "/elisa-artes-lgdark.png", "/aikolgdark.png", "/aikolglight.png", "/elisa-artes-pgconvite-smlight.png", "/elisa-artes-pgconvite-lgdark.png", "/aikoequipmentsmdark.png", "/aikoequipmentsmlight.png", "/aikosearchdark.png", "/aikosearchlight.png"],
+      "img": "/aikosmdark.webp",
+      "imgs":["/aikosmdark.webp", "/aikosmlight.webp",  "/elisa-artes-lgdark.webp", "/aikolgdark.webp", "/aikolglight.webp", "/elisa-artes-pgconvite-smlight.webp", "/elisa-artes-pgconvite-lgdark.webp", "/aikoequipmentsmdark.webp", "/aikoequipmentsmlight.webp", "/aikosearchdark.webp", "/aikosearchlight.webp"],
       "video": null,
       "title": "Gestão de Equipamentos",
       "slug": "gestao-de-equipamentos",
@@ -30,8 +30,8 @@
     },
     {
       "id": 3,
-      "img": "/elisa-artes-smdark.png",
-      "imgs":["/elisa-artes-smdark.png", "/elisa-artes-smlight.png",  "/elisa-artes-lgdark.png", "/elisa-artes-lglight.png", "/elisa-artes-pgconvite-smdark.png", "/elisa-artes-pgconvite-smlight.png", "/elisa-artes-pgconvite-lgdark.png", "/elisa-artes-pgconvite-lglight.png", "/elisa-artes-pgconvites-smdark.png", "/elisa-artes-pgconvites-smlight.png", "/elisa-artes-pgconvites-lgdark.png", "/elisa-artes-pgconvites-lglight.png"],
+      "img": "/elisa-artes-smdark.webp",
+      "imgs":["/elisa-artes-smdark.webp", "/elisa-artes-smlight.webp",  "/elisa-artes-lgdark.webp", "/elisa-artes-lglight.webp", "/elisa-artes-pgconvite-smdark.webp", "/elisa-artes-pgconvite-smlight.webp", "/elisa-artes-pgconvite-lgdark.webp", "/elisa-artes-pgconvite-lglight.webp", "/elisa-artes-pgconvites-smdark.webp", "/elisa-artes-pgconvites-smlight.webp", "/elisa-artes-pgconvites-lgdark.webp", "/elisa-artes-pgconvites-lglight.webp"],
       "video": null,
       "title": "E-commerce - Elisa Artes",
       "slug": "ecommerce-elisa-artes",
@@ -44,8 +44,8 @@
     },
     {
       "id": 4,
-      "img": "/portfolio-sm-dark.png",
-      "imgs":["/portfolio-lg-dark.png", "/portfolio-lg-light.png",  "/portfolio-sm-dark.png", "/portfolio-sm-light.png"],
+      "img": "/portfolio-sm-dark.webp",
+      "imgs":["/portfolio-lg-dark.webp", "/portfolio-lg-light.webp",  "/portfolio-sm-dark.webp", "/portfolio-sm-light.webp"],
       "video": "/video-portfolio.mp4",
       "title": "Portfólio Atual",
       "slug": "meu-portfolio-Atual",
@@ -59,8 +59,8 @@
 
     {
       "id": 5,
-      "img": "/pagevendas-sm.png",
-      "imgs":["/pagevendas-lg.png", "/pagevendas-sm.png"],
+      "img": "/pagevendas-sm.webp",
+      "imgs":["/pagevendas-lg.webp", "/pagevendas-sm.webp"],
       "video": "/video-pagevendas.mp4",
       "title": "Página de vendas",
       "slug": "page-de-vendas-instagram-para-empreendedoras",
@@ -74,8 +74,8 @@
   
     {
       "id": 6,
-      "img": "/card-perfil.png",
-      "imgs":["/card-perfil.png"],
+      "img": "/card-perfil.webp",
+      "imgs":["/card-perfil.webp"],
       "video": null,
       "title": "Card Perfil",
       "slug": "card-perfil",
@@ -89,8 +89,8 @@
   
     {
       "id": 7,
-      "img": "/mystore.png",
-      "imgs":["/mystore.png", "/mystore2.png"],
+      "img": "/mystore.webp",
+      "imgs":["/mystore.webp", "/mystore2.webp"],
       "video": null,
       "title": "MyStore",
       "slug": "mystore",
@@ -103,8 +103,8 @@
   
     {
       "id": 8,
-      "img": "/alcancadospelagraca.png",
-      "imgs":["/alcancadospelagraca.png", "/alcancadospelagraca2.png"],
+      "img": "/alcancadospelagraca.webp",
+      "imgs":["/alcancadospelagraca.webp", "/alcancadospelagraca2.webp"],
       "video": null,
       "title": "Igreja APG",
       "slug": "alcancados-pela-graca",
@@ -118,8 +118,8 @@
   
     {
       "id": 9,
-      "img": "/elisarosal.png",
-      "imgs":["/elisarosal.png", "/elisarosal2.png"],
+      "img": "/elisarosal.webp",
+      "imgs":["/elisarosal.webp", "/elisarosal2.webp"],
       "video": null,
       "title": "Portfólio de Elisa",
       "slug": "portfolio-de-elisa-rosal",
@@ -132,8 +132,8 @@
   
     {
       "id": 10,
-      "img": "/marvel-heroes.png",
-      "imgs":["/marvel-heroes.png", "/marvel-heroes2.png"],
+      "img": "/marvel-heroes.webp",
+      "imgs":["/marvel-heroes.webp", "/marvel-heroes2.webp"],
       "video": null,
       "title": "Marvel Store",
       "slug": "loja-de-quadrinhos-da-marvel",
@@ -146,8 +146,8 @@
   
     {
       "id": 11,
-      "img": "/minhasnotas.png",
-      "imgs":["/minhasnotas.png", "/minhasnotas2.png"],
+      "img": "/minhasnotas.webp",
+      "imgs":["/minhasnotas.webp", "/minhasnotas2.webp"],
       "video": null,
       "title": "MyNotes",
       "slug": "mynotes",
@@ -161,8 +161,8 @@
   
     {
       "id": 12,
-      "img": "/portfolio-novo.png",
-      "imgs":["/portfolio-novo.png", "/portfolio-novo2.png"],
+      "img": "/portfolio-novo.webp",
+      "imgs":["/portfolio-novo.webp", "/portfolio-novo2.webp"],
       "video": null,
       "title": "Portfólio antigo",
       "slug": "Meu-Portfólio-antigo",
@@ -175,8 +175,8 @@
   
     {
       "id": 13,
-      "img": "/rpz-novo.png",
-      "imgs":["/rpz-novo.png"],
+      "img": "/rpz-novo.webp",
+      "imgs":["/rpz-novo.webp"],
       "video": null,
       "title": "RPZ FC",
       "slug": "rpz-fc-time-de-futebol-amador",
@@ -190,8 +190,8 @@
   
     {
       "id": 14,
-      "img": "/portfolio-antigo.png",
-      "imgs":["/portfolio-antigo.png"],
+      "img": "/portfolio-antigo.webp",
+      "imgs":["/portfolio-antigo.webp"],
       "video": null,
       "title": "Primeiro portfólio",
       "slug": "meu-primeiro-portfolio",
@@ -205,8 +205,8 @@
   
     {
       "id": 15,
-      "img": "/rpz-antigo.png",
-      "imgs":["/rpz-antigo.png"],
+      "img": "/rpz-antigo.webp",
+      "imgs":["/rpz-antigo.webp"],
       "video": null,
       "title": "RPZ FC antigo",
       "slug": "rpz-fc-site-antigo",
