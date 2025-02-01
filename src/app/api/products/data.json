@@ -74,21 +74,6 @@
   
     {
       "id": 6,
-      "img": "/card-perfil.webp",
-      "imgs":["/card-perfil.webp"],
-      "video": null,
-      "title": "Card Perfil",
-      "slug": "card-perfil",
-      "description":
-        "Card de acesso rápido as minhas redes. Feito para testar o aprendizado em Angular ",
-      "tecs": ["HTML", "CSS", "JS", "TS", "Angular"],
-      "page": "https://card-perfil-sandrofernandes.vercel.app/",
-      "repo": "https://github.com/SandroFernandesRosal/cardPerfil-angular",
-      "featured": false
-    },
-  
-    {
-      "id": 7,
       "img": "/mystore.webp",
       "imgs":["/mystore.webp", "/mystore2.webp"],
       "video": null,
@@ -102,7 +87,7 @@
     },
   
     {
-      "id": 8,
+      "id": 7,
       "img": "/alcancadospelagraca.webp",
       "imgs":["/alcancadospelagraca.webp", "/alcancadospelagraca2.webp"],
       "video": null,
@@ -117,7 +102,7 @@
     },
   
     {
-      "id": 9,
+      "id": 8,
       "img": "/elisarosal.webp",
       "imgs":["/elisarosal.webp", "/elisarosal2.webp"],
       "video": null,
@@ -131,7 +116,7 @@
     },
   
     {
-      "id": 10,
+      "id": 9,
       "img": "/marvel-heroes.webp",
       "imgs":["/marvel-heroes.webp", "/marvel-heroes2.webp"],
       "video": null,
@@ -145,76 +130,17 @@
     },
   
     {
-      "id": 11,
+      "id": 10,
       "img": "/minhasnotas.webp",
       "imgs":["/minhasnotas.webp", "/minhasnotas2.webp"],
       "video": null,
       "title": "MyNotes",
       "slug": "mynotes",
       "description":
-        "Projeto da Rocketseat, para aprendizado. Site Fullstack, com Api desenvolvida em NodeJS",
+        "Projeto Fullstack, com Api desenvolvida em NodeJS",
       "tecs": ["HTML", "CSS", "JS", "React", "Styled Components"],
       "page": "https://my-notes-front-end.vercel.app/",
       "repo": "https://github.com/SandroFernandesRosal/myNotes-front-end",
-      "featured": false
-    },
-  
-    {
-      "id": 12,
-      "img": "/portfolio-novo.webp",
-      "imgs":["/portfolio-novo.webp", "/portfolio-novo2.webp"],
-      "video": null,
-      "title": "Portfólio antigo",
-      "slug": "Meu-Portfólio-antigo",
-      "description": "Projeto feito em ReactJS.",
-      "tecs": ["HTML", "CSS", "JS", "React"],
-      "page": "https://sandrofernandesdev.netlify.app/",
-      "repo": "https://github.com/SandroFernandesRosal/Portf-lio-ReactJS",
-      "featured": false
-    },
-  
-    {
-      "id": 13,
-      "img": "/rpz-novo.webp",
-      "imgs":["/rpz-novo.webp"],
-      "video": null,
-      "title": "RPZ FC",
-      "slug": "rpz-fc-time-de-futebol-amador",
-      "description":
-        "Projeto feito em ReactJS. Site para um time de futebol amador.",
-      "tecs": ["HTML", "CSS", "JS", "React"],
-      "page": "https://rpzfc.netlify.app/",
-      "repo": "https://github.com/SandroFernandesRosal/RPZFC-ReactJS",
-      "featured": false
-    },
-  
-    {
-      "id": 14,
-      "img": "/portfolio-antigo.webp",
-      "imgs":["/portfolio-antigo.webp"],
-      "video": null,
-      "title": "Primeiro portfólio",
-      "slug": "meu-primeiro-portfolio",
-      "description":
-        "Projeto feito com HTML e CSS. Esse foi meu primeiro portfólio, feito em 2020 e atualizado até o início de 2022.",
-      "tecs": ["HTML", "CSS"],
-      "page": "https://sandrofernandesrosal.github.io/Sandro-Fernandes",
-      "repo": "https://github.com/SandroFernandesRosal/Sandro-Fernandes",
-      "featured": false
-    },
-  
-    {
-      "id": 15,
-      "img": "/rpz-antigo.webp",
-      "imgs":["/rpz-antigo.webp"],
-      "video": null,
-      "title": "RPZ FC antigo",
-      "slug": "rpz-fc-site-antigo",
-      "description":
-        "Projeto feito em HTML, CSS e Javascript. Esse projeto foi feito em 2022 e atualizado até 05/2022",
-      "tecs": ["HTML", "CSS", "JS"],
-      "page": "https://sandrofernandesrosal.github.io/RPZFC/",
-      "repo": "https://github.com/SandroFernandesRosal/RPZFC",
       "featured": false
     }
   ]
